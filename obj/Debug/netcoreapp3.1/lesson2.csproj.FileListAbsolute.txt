@@ -1,0 +1,12 @@
+/Users/vinceoblak/Desktop/ProgrammingC#/lesson2/bin/Debug/netcoreapp3.1/lesson2.deps.json
+/Users/vinceoblak/Desktop/ProgrammingC#/lesson2/bin/Debug/netcoreapp3.1/lesson2.runtimeconfig.json
+/Users/vinceoblak/Desktop/ProgrammingC#/lesson2/bin/Debug/netcoreapp3.1/lesson2.runtimeconfig.dev.json
+/Users/vinceoblak/Desktop/ProgrammingC#/lesson2/bin/Debug/netcoreapp3.1/lesson2.dll
+/Users/vinceoblak/Desktop/ProgrammingC#/lesson2/bin/Debug/netcoreapp3.1/lesson2.pdb
+/Users/vinceoblak/Desktop/ProgrammingC#/lesson2/obj/Debug/netcoreapp3.1/lesson2.csprojAssemblyReference.cache
+/Users/vinceoblak/Desktop/ProgrammingC#/lesson2/obj/Debug/netcoreapp3.1/lesson2.AssemblyInfoInputs.cache
+/Users/vinceoblak/Desktop/ProgrammingC#/lesson2/obj/Debug/netcoreapp3.1/lesson2.AssemblyInfo.cs
+/Users/vinceoblak/Desktop/ProgrammingC#/lesson2/obj/Debug/netcoreapp3.1/lesson2.csproj.CoreCompileInputs.cache
+/Users/vinceoblak/Desktop/ProgrammingC#/lesson2/obj/Debug/netcoreapp3.1/lesson2.dll
+/Users/vinceoblak/Desktop/ProgrammingC#/lesson2/obj/Debug/netcoreapp3.1/lesson2.pdb
+/Users/vinceoblak/Desktop/ProgrammingC#/lesson2/obj/Debug/netcoreapp3.1/lesson2.genruntimeconfig.cache
