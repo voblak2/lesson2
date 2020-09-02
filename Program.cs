@@ -6,9 +6,16 @@ namespace lesson2
     {
         static void Main(string[] args)
         {
-            int a = 5;
-            int b = 5;
-            Console.WriteLine(a == b);
+            var a = 5;
+            var b = 6;
+            if (a == 6)
+            {
+                Console.WriteLine("A equals six!");
+            } else if (b == 6) {
+                Console.WriteLine("B equals six!");
+            } else {
+                Console.WriteLine("False");
+            }
         }
     }
 }
