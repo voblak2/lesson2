@@ -6,22 +6,15 @@ namespace lesson2
     {
         static void Main(string[] args)
         {
-            int score = 71;
-            string grade = "";
+            var isHungry = true;
+            var isRestaurantOpen = true;
 
-            if (score > 90)
+            if (isHungry && isRestaurantOpen)
             {
-                grade = "A";
-            } 
-            else if (score > 80) 
-            {
-                grade = "B";
-            } 
-            else if (score > 70) 
-            {
-                grade = "C";
+                Console.WriteLine("Go to the restaurant!");
+            } else {
+                Console.WriteLine("Don't go to the restaurant.");
             }
-            Console.WriteLine(grade);
         }
     }
 }
