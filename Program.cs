@@ -6,14 +6,16 @@ namespace lesson2
     {
         static void Main(string[] args)
         {
-            var isDaytime = false;
-            var isHungry = false;
-            if (!(isDaytime && isHungry))
+            var isSleepy = true;
+            var isLibraryClosed = false;
+            var isBatteryDead = false;
+
+            if (isSleepy || isLibraryClosed || isBatteryDead)
             {
-                Console.WriteLine("Don't eat.");
-            
-            } else {
-                Console.WriteLine("Time to eat.");
+                Console.WriteLine("You should leave now.");
+            }   else 
+            {
+                Console.WriteLine("Keep on studying.");
             }
             
         }
