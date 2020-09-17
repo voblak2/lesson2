@@ -10,7 +10,7 @@ namespace lesson2
             var isLibraryClosed = false;
             var isBatteryDead = false;
 
-            if (isSleepy || isLibraryClosed || isBatteryDead)
+            if (isBatteryDead || isSleepy && isLibraryClosed)
             {
                 Console.WriteLine("You should leave now.");
             }   else 
