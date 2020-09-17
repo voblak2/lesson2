@@ -6,18 +6,15 @@ namespace lesson2
     {
         static void Main(string[] args)
         {
-            var isSleepy = true;
-            var isLibraryClosed = false;
-            var isBatteryDead = false;
-
-            if (isBatteryDead || isSleepy && isLibraryClosed)
+            var a = 2;
+            var b = 4;
+            if (a < b)
             {
-                Console.WriteLine("You should leave now.");
-            }   else 
+                Console.WriteLine("a is less than b.");
+            }   else
             {
-                Console.WriteLine("Keep on studying.");
+                Console.WriteLine("a is not less than b.");
             }
-            
         }
     }
 }
