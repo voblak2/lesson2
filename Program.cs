@@ -6,18 +6,14 @@ namespace lesson2
     {
         static void Main(string[] args)
         {
-            var a = 4;
-            var b = 4;
-            if (a < b)
+            var userAge = 22;
+
+            if (userAge < 18)
             {
-                Console.WriteLine("a is less than b.");
-            }   else if (a <= b)
+                Console.WriteLine("Sorry, you are too young to purchase tickets for this movie.");
+            }   else if (userAge >= 18)
             {
-                Console.WriteLine("a is the same as b.");
-            }
-            else
-            {
-                Console.WriteLine("a is not less than b.");
+                Console.WriteLine("Here are your tickets. Enjoy the movie.");
             }
         }
     }
