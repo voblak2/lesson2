@@ -6,12 +6,16 @@ namespace lesson2
     {
         static void Main(string[] args)
         {
-            var a = 2;
+            var a = 4;
             var b = 4;
             if (a < b)
             {
                 Console.WriteLine("a is less than b.");
-            }   else
+            }   else if (a <= b)
+            {
+                Console.WriteLine("a is the same as b.");
+            }
+            else
             {
                 Console.WriteLine("a is not less than b.");
             }
