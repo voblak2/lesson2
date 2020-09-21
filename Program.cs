@@ -6,8 +6,8 @@ namespace lesson2
     {
         static void Main(string[] args)
         {
-            var remainder = 5 % 2;
-            Console.WriteLine(remainder);
+            var number = (10 + 10) + 5 + 2 - (4 * 5);
+            Console.WriteLine(number);
         }
     }
 }
