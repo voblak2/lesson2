@@ -7,8 +7,8 @@ namespace lesson2
         static void Main(string[] args)
         {
             var morningGreeting = "Good Morning!";
-            var greetingLength = morningGreeting.Length;
-            Console.WriteLine(greetingLength);
+            Console.WriteLine(morningGreeting.ToUpper());
+            Console.WriteLine(morningGreeting.ToLower());
         }
     }
 }
