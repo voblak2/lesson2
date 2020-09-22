@@ -6,11 +6,9 @@ namespace lesson2
     {
         static void Main(string[] args)
         {
-            bool isProgrammer = true;
-            Console.WriteLine("Am I a programmer? " + isProgrammer);
-
-            int age = 30;
-            Console.WriteLine("My age: " + age);
+            var morningGreeting = "Good Morning!";
+            var greetingLength = morningGreeting.Length;
+            Console.WriteLine(greetingLength);
         }
     }
 }
